@@ -1,0 +1,23 @@
+
+ oop : Object Oriented Programming
+ 
+ 객체 지향 프래그래밍 
+ 
+ ' 클래스
+ ' 객체 : 클래스가 메모리가 있는 상태
+ instance = object
+ 
+ // class Student {
+ 
+ }
+ 
+ // 클래스 변수 선언
+ Stduent s = null;
+ 
+ 
+ // 객체생성
+ s = new Student();  
+ 
+ Student s2 = new student ();
+ 
+ 

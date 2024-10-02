@@ -1,0 +1,32 @@
+
+[class modifier]
+
+_1_  class A {
+
+   _2_  int A;
+   _3_ A() { } ;
+   _4_ void A () {}
+   }
+   
+   [1] public / final / abstract
+   [2] public / private / protected / static / final 
+   [3] public / private / protected
+   [4] public / private / protected / static /final / abstract
+   
+   //분모재정의 수정못하게 - 오버라이딩
+   
+   ===========================================================
+   
+   [interface]
+   
+   interface B {
+   [public static final] int B ;  //상수 (값변경못함)
+   //생성자 없음 
+   [public abstract] void B(); 
+      }
+      
+      
+      
+      
+      
+      

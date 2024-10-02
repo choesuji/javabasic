@@ -1,0 +1,16 @@
+
+* 콜랙션
+    - 기본적인 자료구조(개념)를 만들어줌
+    - java.util 패키지
+    
+    1. List <-interface 래요~~ 부모는 Object래요~~ ??
+          - ArrayList : Object[] 동적크기 <- 크기를 늘렷다줄엿다??
+    
+    2. Set 
+          - 순서없음 (index 없음)
+          - 중복값 저장 안됨
+              
+    
+    3. Map
+          - 키(key) 와 밸류(value) 저장 구조
+          - 키는 중복 안됨
