@@ -7,4 +7,6 @@ public class EmpOV {
 	// #####  멤버변수 선언
 	
 	
+
+	
 }
